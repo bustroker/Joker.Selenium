@@ -1,0 +1,2 @@
+:: check state in http://localhost:5555/wd/hub
+"C:\Program Files (x86)\Java\jre7\bin\java" -jar "C:\Users\lmesa\Documents\Visual Studio 2013\Projects\SeleniumDemo\lib\seleniumServer\selenium-server-standalone-2.45.0.jar" -role node -hub http://localhost:4444/grid/register -port 5555

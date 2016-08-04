@@ -1,0 +1,2 @@
+:: check state in localhost:4444/grid/console
+"C:\Program Files (x86)\Java\jre7\bin\java" -jar "C:\Users\lmesa\Documents\Visual Studio 2013\Projects\SeleniumDemo\lib\seleniumServer\selenium-server-standalone-2.45.0.jar" -role hub -port 4444
